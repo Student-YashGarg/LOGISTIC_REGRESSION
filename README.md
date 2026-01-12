@@ -25,5 +25,10 @@ and model evaluation techniques.
 - Matplotlib
 
 ---
+###############################################################
 
-## 📂 Project Structure
+👤 Author
+
+  Yash Garg
+  B.Tech Graduate
+  Python | SQL | CustomTkinter | Machine Learning
