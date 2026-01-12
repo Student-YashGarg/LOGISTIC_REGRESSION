@@ -30,5 +30,6 @@ and model evaluation techniques.
 👤 Author
 
   Yash Garg
+  
   B.Tech Graduate
-  Python | SQL | CustomTkinter | Machine Learning
+  
